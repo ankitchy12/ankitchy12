@@ -2,8 +2,6 @@
 
 
 
-                                                    🚀 About Me
-
 🔭 I'm a Full Stack Web Developer who loves building clean, functional, and scalable web applications
 
 🌱 Currently sharpening my skills in the MERN Stack (MongoDB, Express.js, React.js, Node.js)
